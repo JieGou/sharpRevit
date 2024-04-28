@@ -351,3 +351,10 @@ MigrationBackup/
 .ionide/
 
 Testing/
+.vs
+obj
+bin
+.vs
+obj
+bin
+.vs
